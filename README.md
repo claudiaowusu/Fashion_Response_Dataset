@@ -1,17 +1,13 @@
-# Fashion Response Dataset Analysis
-
-This fashion dataset provides a comprehensive collection of contemporary styles and trends from diverse sources across various demographics.
-It includes detailed attributes such as clothing types, colors, patterns, and textures, curated to support trend analysis, style prediction, and consumer behavior studies. 
-The dataset encompasses a wide range of fashion items, from casual wear to haute couture, covering both historical trends and current fashion seasons.
 
 # 🧵 Fashion Dataset - Form Responses
 
-This repository contains a dataset collected via a Google Form designed to gather insights into fashion preferences, shopping behavior, and style opinions among respondents. The dataset aims to support analysis for trends in clothing choices, fashion influences, purchasing patterns, and demographic correlations in the fashion industry.
+This repository contains a dataset collected from kaggle designed to gather insights into fashion preferences, shopping behavior, and style opinions among respondents. The dataset aims to support analysis for trends in clothing choices, fashion influences, purchasing patterns, and demographic correlations in the fashion industry. This fashion dataset provides a comprehensive collection of contemporary styles and trends from diverse sources across various demographics. It includes detailed attributes such as clothing types, colors, patterns, and textures, curated to support trend analysis, style prediction, and consumer behavior studies. 
+The dataset encompasses a wide range of fashion items, from casual wear to haute couture, covering both historical trends and current fashion seasons.
 
 ## 📊 Dataset Overview
 
 - **Filename:** `Fashion(Data Points) - Form responses 1.csv`
-- **Source:** Google Form survey responses
+- **Source:** kaggle
 - **Format:** CSV (Comma Separated Values)
 - **Rows:** Each row represents an individual respondent
 - **Columns:** Each column represents a unique question or attribute related to fashion behavior
